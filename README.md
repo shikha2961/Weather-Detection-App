@@ -10,6 +10,7 @@
 ## Contributors:
 - Muddhit Baid
 - Vinamrata Rani
+- Shikha
 
 ## How to start ? 🎪
 
